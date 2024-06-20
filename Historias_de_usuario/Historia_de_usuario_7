@@ -1,0 +1,48 @@
+# Historia de Usuario No. 7
+
+## Agregamos soporte para caracteres especiales como !"·$=
+
+`Como usuario, quiero poder cifrar y descifrar mensajes que incluyan caracteres especiales como !"·$=, para poder añadir una mayor variedad de tipos de valores y mejorar la seguridad del mensaje y tener una mayor seguridad dado del desifrado del mensage
+
+## Descripción
+
+Es importante que el sistema de cifrado y descifrado César pueda manejar mensajes escritos con una combinación de caracteres especiales, letras minusculas y caracteres especiaales que son especiasles para el uso de esta cifrado.
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El sistema debe admitir la entrada y salida de mensajes con caracteres especiales incluidos, incluyendo pero no limitado a solo caracteres especiales.
+   - Se debe garantizar que el cifrado y descifrado funcione correctamente para caracteres especiales, letras y caracteres espeificos
+
+2. **Criterio de Aceptación 2**
+   - Se debe verificar que funcione en todas las opciones implementadas y que sea óptimo en eficiencia.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Se estima que esta historia de usuario tomará aproximadamente 30 minutos para el terminado 
+## Notas/Tareas Adicionales
+
+- [x] Implementar soporte para caracteres especiales en la entrada y salida de mensajes.
+- [x] Desarrollar la lógica para cada opción implementada.
+- [x] Realizar pruebas exhaustivas para garantizar la precisión y el funcionamiento adecuado del cifrado y descifrado con caracteres especiales.
+- [x] Realizar mas pruevas y proyectar nuevos orisontes para este cifrado.
+
+## Prototipos/Anexos
+
+- 
+
+## Discusiones
+
+1. **Discusión 1**
+   - Se discutió sobre la importancia de adaptarse a las necesidades de comunicación de los usuarios.
+   - se acordo que para la implementacion del cifrado pueda terne un lengiaje propio en desarrollo.
+
+2. **Discusión 2**
+   - Se debatió sobre cómo abordar los desafíos específicos asociados con el cifrado y descifrado con esta nueva premisa.
+
+## Historial de Cambios
+
+- **[20/06/2024]** Cambio realizado por [Kael Krause] - Se implementó el soporte para caracteres especiales en el cifrado y descifrado de mensajes.

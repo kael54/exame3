@@ -1,0 +1,49 @@
+# Historia de Usuario No. 6
+
+## Agregamos al alfabeto numeros del 1 al 9
+
+`Como usuario, quiero poder cifrar y descifrar mensajes pero que pueda aceptar valores numericos del 1 al 9, para poder añadir un mayor variedad de tipos de valores.`
+
+## Descripción
+
+Es importante que el sistema de cifrado y descifrado César pueda manejar mensajes escritos con una variacion entre numeros y letras. Esto permite al usuario cifrar mensajes mas complejos generando una mayor seguridad para el mensaje.
+
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El sistema debe admitir la entrada y salida de mensajes con valores numericos incluidos, incluyendo pero no limitado a solo valores numericos.
+   - Se debe garantizar que el cifrado y descifrado funcione correctamente para caracteres especiales, letras y numeros específicos.
+
+2. **Criterio de Aceptación 2**
+   - Se debe verificar que funcione en todas las opciones implementadas y que sea optimo en eficiencia.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Se estima que esta historia de usuario tomará aproximadamente 30 minutos para completarse.
+
+## Notas/Tareas Adicionales
+
+- [x] Implementar soporte para valores numericos en la entrada y salida de mensajes.
+- [x] Desarrollar la lógica para cada opcion implementada.
+- [x] Realizar pruebas exhaustivas para garantizar la precisión y el funcionamiento adecuado del cifrado y descifrado con valores numericos.
+
+## Prototipos/Anexos
+
+- 
+
+## Discusiones
+
+1. **Discusión 1**
+   - Se discutió sobre la importancia de adaptarse a las necesidades de comunicación de los usuarios.
+   - Se acordó implementar soporte para mejorar la eficiencia del programa y que sea accesible y útil para una audiencia global.
+
+2. **Discusión 2**
+   - Se debatió sobre cómo abordar los desafíos específicos asociados con el cifrado y descifrado con esta nueva premisa.
+
+## Historial de Cambios
+
+- **[02/12/2024]** Cambio realizado por [Gerard Gonzalez] - Se implementó el soporte con numeros para el cifrado y descifrado de mensajes.
